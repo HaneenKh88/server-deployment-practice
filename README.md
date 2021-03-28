@@ -7,5 +7,5 @@
 
 ### Pull Request Link
 
-[Heroku](https://github.com/HaneenKh88/server-deployment-practice/pull/2)
+[Dev](https://github.com/HaneenKh88/server-deployment-practice/pull/2)
 
