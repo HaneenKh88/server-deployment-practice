@@ -2,7 +2,9 @@
 
 ### Deploy link on heroku:
 
-[Heroku](https://deployserver-haneen.herokuapp.com/)
+[Main Branch Heroku](https://deployserver-haneen.herokuapp.com/)
+
+[Dev Branch Heroku](https://deployserver-haneen.herokuapp.com/)
 
 
 ### Pull Request Link
